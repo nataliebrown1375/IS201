@@ -1,0 +1,14 @@
+.mystyle{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mytitle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+.mybtn-primary {
+    color: #fff;
+    background-color: #a10079;
+    border-color: #a10050;
+  }
