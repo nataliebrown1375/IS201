@@ -1,3 +1,21 @@
 .mystyle{
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.mytitle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+.myheading{
+      font-size: 14px;
+      font-weight: bolder;
+  }
+
+.mylink{
+    color:rgb(150, 150, 238)
+}
+
+.mylink:hover{
+    color: rgb(103, 103, 180);
+}
